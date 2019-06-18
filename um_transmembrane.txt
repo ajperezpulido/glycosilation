@@ -1,0 +1,1339 @@
+1	um00003			conserved hypothetical protein
+2	um00006			conserved hypothetical protein
+3	um00007			conserved hypothetical protein
+4	um00017			conserved hypothetical protein
+5	um00028			conserved hypothetical protein
+6	um00031			conserved hypothetical protein
+7	um00032			hypothetical protein
+8	um00034			probable mfs-multidrug-resistance transporter
+9	um00039			conserved hypothetical protein
+10	um00050			putative protein
+11	um00053			probable 3-dehydroquinate dehydratase
+12	um00054			putative protein
+13	um00055			conserved hypothetical protein
+14	um00056			probable neutral amino acid permease
+15	um00061			related to quinate transport protein
+16	um00063			putative protein
+17	um00068			conserved hypothetical protein
+18	um00076			probable purine permease
+19	um00077			conserved hypothetical protein
+20	um00083			related to formate/nitrite transporter
+21	um00087			conserved hypothetical protein
+22	um00096		zrt2	probable ZRT2 - Zinc transporter II
+23	um00097			putative protein
+24	um00098			related to YTP1
+25	um00103			related to ESBP6 - similarity to Monocarboxylate transporter
+26	um00105		Fer1	iron transport multicopper oxidase
+27	um00111	um10026		related to membrane protein, peroxisomal
+28	um00116			related to nicotinamide mononucleotide permease
+29	um00119			related to protein FR, involved in hyphal branching
+30	um00153			conserved hypothetical protein
+31	um00167			conserved hypothetical protein
+32	um00171			putative protein
+33	um00176		sac1	probable SAC1 - recessive suppressor of secretory defect
+34	um00192			putative protein
+35	um00193	umd2-1820		conserved hypothetical protein
+36	um00196		fun34	probable FUN34 - transmembrane protein involved in ammonia production
+37	um00202			related to Cytochrome P450 4F8
+38	um00204	umd2-1930		related to Ca2+-transporting ATPase
+39	um00206.2	um00206		conserved hypothetical protein
+40	um00208			related to SRC1 - involved in sister chromatid segregation
+41	um00213			related to GPI1 - required for N-acetylglucosaminyl phosphatidylinositol synthesis
+42	um00219			conserved hypothetical protein
+43	um00221			conserved hypothetical protein
+44	um00222.2	um00222		related to monocarboxylate transporter
+45	um00223			related to aquaporin
+46	um00227		ccc2	probable CCC2 - P-type ATPase, Cu(2+)-transporting ATPase
+47	um00258			conserved hypothetical protein
+48	um00262			conserved hypothetical protein
+49	um00271			related to Lipase, required for intravacuolar lysis of autophagic bodies
+50	um00272			conserved hypothetical protein
+51	um00280			related to Glutaminyl-peptide cyclotransferase precursor
+52	um00284			related to vesicle-associated membrane protein 7
+53	um00299			conserved hypothetical protein
+54	um00302			related to N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+55	um00322		lro1	probable LRO1 - a lecithin cholesterol acyltransferase-like gene, mediates diacylglycerol esterification
+56	um00330			related to UTR2 - cell wall protein
+57	um00340			related to syntaxin 18
+58	um00343		gap1	probable GAP1 - amino acid transport protein
+59	um00357			conserved hypothetical protein
+60	um00361			related to MNR2 - Manganese resistance protein
+61	um00371			related to Opsin-1
+62	um00372		spf1	probable SPF1 - P-type ATPase
+63	um00374		dal5	probable DAL5 - Allantoate and ureidosuccinate permease
+64	um00375			conserved hypothetical protein
+65	um00378			hypothetical protein
+66	um00391.2	um00391		conserved hypothetical protein
+67	um00395			probable Rds1 protein
+68	um00406			conserved hypothetical protein
+69	um00450			related to multidrug resistance protein
+70	um00454			related to MCD4 - sporulation protein
+71	um00465			hypothetical protein
+72	um00477			related to Monocarboxylate transporter 1
+73	um00492			conserved hypothetical protein
+74	um00495			conserved hypothetical protein
+75	um00506			putative protein
+76	um00508		cup5	probable CUP5 - proteolipid subunit of the vacuolar H(+)-ATPase V0 sector
+77	um00529	umd12-80		probable carboxylic acid transport protein JEN1
+78	um00530			conserved hypothetical protein
+79	um00534			conserved hypothetical protein
+80	um00536			conserved hypothetical protein
+81	um00540			conserved hypothetical protein
+82	um00542			conserved hypothetical protein
+83	um00547		pro3	probable PRO3 - delta 1-pyrroline-5-carboxylate reductase
+84	um00548	um10460		related to GDA1 - guanosine diphosphatase
+85	um00581			conserved hypothetical protein
+86	um00597			probable ATP-binding cassette transporter protein, mitochondrial
+87	um00616			putative protein
+88	um00624			related to CDP diacylglycerol-inositol 3-phosphatidyltransferase
+89	um00628			putative protein
+90	um00629			hypothetical protein
+91	um00630			probable Vacuolar (H+)-ATPase, 98 KD subunit
+92	um00635			conserved hypothetical protein
+93	um00646			related to cytochrome-b5 reductase
+94	um00655			probable Family 9 glycosyl hydrolase
+95	um00670			conserved hypothetical protein
+96	um00671			putative protein
+97	um00676	umd17-70		conserved hypothetical protein
+98	um00679			related to VBA1 - Vacuolar Basic Amino acid transporter
+99	um00684			conserved hypothetical protein
+100	um00696			conserved hypothetical protein
+101	um00712		yor1	probable YOR1 - ABC transporter
+102	um00719			hypothetical protein
+103	um00727			putative protein
+104	um00738			conserved hypothetical protein
+105	um00755			putative protein
+106	um00757			conserved hypothetical protein
+107	um00763			conserved hypothetical protein
+108	um00770		ura7	probable URA7 - CTP synthase 1
+109	um00786			conserved hypothetical protein
+110	um00790			related to coenzyme a synthetase
+111	um00800		pho84	probable PHO84 - Inorganic phosphate permease
+112	um00815			related to multidrug resistant protein
+113	um00824			putative protein
+114	um00829			conserved hypothetical protein
+115	um00831			conserved hypothetical Ustilago-specific protein
+116	um00840			conserved hypothetical protein
+117	um00842			probable aflatoxin efflux pump AFLT
+118	um00885	umd29-80		hypothetical protein
+119	um00887			conserved hypothetical protein
+120	um00891			related to cell wall protein UTR2
+121	um00904	umd30-160		related to glucose regulated stress protein, HSP70-like
+122	um00908			conserved hypothetical protein
+123	um00912			conserved hypothetical protein
+124	um00915			conserved hypothetical protein
+125	um00919			probable ADP, ATP carrier protein (ADP/ATP translocase)
+126	um00955			probable stearoyl-CoA desaturase
+127	um00956			related to RAX1 - Protein involved in determination of budding patterns
+128	um00958			conserved hypothetical protein
+129	um00967			conserved hypothetical protein
+130	um00970	umd31-260		conserved hypothetical Ustilago-specific protein
+131	um00981			putative protein
+132	um00987			related to YND1 - apyrase (NDPase/NTPase)
+133	um01014			conserved hypothetical protein
+134	um01017			conserved hypothetical protein
+135	um01018			probable cyclophilin b
+136	um01051			related to mfs-multidrug-resistance transporter
+137	um01059		mrs4	probable MRS4 - Protein of the mitochondrial carrier family (MCF)
+138	um01061			hypothetical protein
+139	um01062		vrg4	probable VRG4 - Golgi GDP-mannose transporter
+140	um01063			conserved hypothetical protein
+141	um01070			related to cyclopropane-fatty-acyl-phospholipid synthase
+142	um01082			putative protein
+143	um01084			conserved hypothetical protein
+144	um01111			putative protein
+145	um01114			hypothetical protein
+146	um01136			conserved hypothetical protein
+147	um01138			conserved hypothetical protein
+148	um01149		Glo3	glyoxaloxidase 3
+149	um01150			related to COX7 - cytochrome-c oxidase, subunit VII
+150	um01154		kre2	probable KRE2 - alpha-1,2-mannosyltransferase
+151	um01156			related to myo-inositol transporter
+152	um01159	umd41-140		conserved hypothetical protein
+153	um01169			related to CDC50 - cell division protein
+154	um01181			conserved hypothetical protein
+155	um01186			conserved hypothetical protein
+156	um01192			conserved hypothetical protein
+157	um01204			related to PRY1 - strong similarity to the plant PR-1 class of pathogen related proteins
+158	um01205			cation-transporting ATPase
+159	um01207			related to HLJ1 - Co-chaperone for Hsp40p
+160	um01210			related to mitochondrial import receptor subunit TOM20
+161	um01228			conserved hypothetical protein
+162	um01230			related to NTE1 - Serine esterase
+163	um01231			related to dolichyl-phosphate beta-glucosyltransferase
+164	um01235			conserved hypothetical Ustilago-specific protein
+165	um01244			conserved hypothetical protein
+166	um01257			related to ANT1 - peroxisomal ATP carrier
+167	um01258			conserved hypothetical protein
+168	um01281			related to general alpha-glucoside permease
+169	um01286			related to PTC5 - putative 2C protein phosphatase (PP2Cs)
+170	um01311			related to NADH-ubiquinone oxidoreductase B16.6 subunit
+171	um01334			hypothetical protein
+172	um01359			conserved hypothetical protein
+173	um01373.2	um01373		related to Vacuolar membrane protein
+174	um01374			hypothetical protein
+175	um01377			hypothetical protein
+176	um01387			putative protein
+177	um01406			conserved hypothetical protein
+178	um01407			conserved hypothetical protein
+179	um01424			probable Cytochrome P450 monooxygenase/Phenylacetate hydroxylase
+180	um01428			conserved hypothetical protein
+181	um01429			related to high-affinity nickel transport protein nic1
+182	um01431		Fer6	related to ATP-binding cassette transporter protein
+183	um01435			related to MCH4 - monocarboxylate transporter
+184	um01439	umd50-20	Fer9	related to FRE3 - Ferric reductase, reduces siderophore-bound iron prior to uptake
+185	um01442			conserved hypothetical protein
+186	um01450			related to COQ2 - para-hydroxybenzoate--polyprenyltransferase
+187	um01464			hypothetical protein
+188	um01465			conserved hypothetical protein
+189	um01476			related to HXT1 - Low-affinity hexose facilitator
+190	um01479			putative protein
+191	um01495			related to YIA6 - Pvruvate transporter of the mitochondrial inner membrane
+192	um01498		erg4	probable ERG4 - sterol C-24 reductase
+193	um01508			related to Aquaporin 3
+194	um01524			hypothetical protein
+195	um01528			conserved hypothetical protein
+196	um01565			related to GPI transamidase component PIG-S
+197	um01569			related to BRE4 - protein involved in endocytosis
+198	um01580			related to NCR1 - transmembrane glycoprotein, involved in sphingolipid metabolism
+199	um01599			related to ECI1 - delta3-cis-delta2-trans-enoyl-CoA isomerase
+200	um01613			related to AUR1 - inositol phosphorylceramide synthase
+201	um01628.2	um01628		conserved hypothetical protein
+202	um01639			probable 1,3-beta-D-glucan synthase subunit
+203	um01640			related to GAS1 - glycophospholipid-anchored surface glycoprotein
+204	um01641			conserved hypothetical protein
+205	um01650			conserved hypothetical protein
+206	um01653			related to VPS73 - protein involved in vacuolar protein sorting
+207	um01656			probable sugar transporter
+208	um01683.2	um01683		putative protein
+209	um01686			conserved hypothetical protein
+210	um01689			hypothetical protein
+211	um01700			related to ABC transporter protein
+212	um01705	umd66-220		conserved hypothetical protein
+213	um01708		hom6	probable HOM6 - homoserine dehydrogenase
+214	um01713			hypothetical protein
+215	um01725			conserved hypothetical protein
+216	um01731			hypothetical protein
+217	um01737.2	um01737		related to Adiponectin receptor 1
+218	um01739			putative protein
+219	um01756.2	um01756		probable Purine Transporter AzgA
+220	um01758			related to ABC transporter
+221	um01759			conserved hypothetical protein
+222	um01762			related to large neutral amino acid transporter 1
+223	um01773			conserved hypothetical protein
+224	um01777			related to mannose-P-dolichol utilization defect 1 protein
+225	um01778			putative protein
+226	um01782	umd68-370		related to peroxisomal membrane protein PMP47B
+227	um01785			putative protein
+228	um01789			related to ERG28 - involved in synthesis of ergosterol
+229	um01792			conserved hypothetical protein
+230	um01797			conserved hypothetical protein
+231	um01805			conserved hypothetical protein
+232	um01808			related to ERV2 - Flavin dependent sulfhydryl oxidase
+233	um01812			conserved hypothetical protein
+234	um01813			related to putative acetyl-coenzyme A transporter
+235	um01821	umd70-120	kre2	probable KRE2 - alpha-1,2-mannosyltransferase
+236	um01823			hypothetical protein
+237	um01832			putative protein
+238	um01833			related to Zinc finger DHHC domain containing protein 2
+239	um01844			hypothetical protein
+240	um01856			related to PET8 protein, member of the mitochondrial carrier (MCF) family
+241	um01860			related to PTH2 - aminoacyl-tRNA hydrolase
+242	um01862			related to arsenite transporter ARR3
+243	um01863			related to Cytochrome P450
+244	um01866			conserved hypothetical protein
+245	um01868			related to GIT1 - Glycerophosphoinositol transporter also able to mediate low-affinity phosphate transport
+246	um01869			related to NADH oxidase
+247	um01879			conserved hypothetical protein
+248	um01882			related to multidrug resistance proteins
+249	um01897			conserved hypothetical protein
+250	um01898			related to endo-1,3(4)-beta-glucanase
+251	um01899			related to multidrug resistance protein
+252	um01900			conserved hypothetical protein
+253	um01902.2	um01902		conserved hypothetical protein
+254	um01920			related to Na+/H+-exchanging protein
+255	um01922			conserved hypothetical protein
+256	um01929	umd71-100		conserved hypothetical protein
+257	um01934		Erg2	C-8 sterol isomerase
+258	um01936	um10454		related to 4-coumarate-CoA ligase
+259	um01936	umd71-190		related to 4-coumarate-CoA ligase
+260	um01944	umd71-270		related to allantoate permease
+261	um01946			putative protein
+262	um01949			putative protein
+263	um01958.2	um01958		putative protein
+264	um01964			related to multidrug resistance protein
+265	um01965			related to ferroportin 1
+266	um01967			conserved hypothetical protein
+267	um01970			hypothetical protein
+268	um01982	umd72-270		related to aminotriazole resistance protein
+269	um01982	um11380		related to aminotriazole resistance protein
+270	um01983			conserved hypothetical protein
+271	um01985			hypothetical protein
+272	um01989			conserved hypothetical protein
+273	um01994			conserved hypothetical protein
+274	um01996			probable mfs-multidrug-resistance transporter
+275	um01997.2	um01997		putative protein
+276	um02002			putative protein
+277	um02008			conserved hypothetical protein
+278	um02012			conserved hypothetical protein
+279	um02019			probable Chitin deacetylase
+280	um02021			conserved hypothetical protein
+281	um02024			conserved hypothetical protein
+282	um02037	umd74-60	hxt5	probable HXT5 - Hexose transporter
+283	um02050			conserved hypothetical protein
+284	um02062			related to multidrug resistance proteins
+285	um02063	umd75-140		conserved hypothetical protein
+286	um02081		Eca1	endoplasmic reticulum calcium transporter
+287	um02093			putative protein
+288	um02101			putative protein
+289	um02105			probable 3-hydroxybutyryl-CoA dehydrogenase
+290	um02107	umd78-210		conserved hypothetical protein
+291	um02113			hypothetical protein
+292	um02119			hypothetical protein
+293	um02126			conserved hypothetical protein
+294	um02127			conserved hypothetical protein
+295	um02132			conserved hypothetical protein
+296	um02140			conserved hypothetical Ustilago-specific protein
+297	um02146			related to GABA permease
+298	um02147			related to Cytoplasmic acetyl-CoA hydrolase 1
+299	um02154			related to amino-acid permease 2
+300	um02157			conserved hypothetical protein
+301	um02159			related to amino acid transport protein
+302	um02161			conserved hypothetical protein
+303	um02164		nde1	probable NDE1 - mitochondrial cytosolically directed NADH dehydrogenase
+304	um02169			related to aquaporin 3
+305	um02180			conserved hypothetical protein
+306	um02193			hypothetical protein
+307	um02194			hypothetical protein
+308	um02196			hypothetical protein
+309	um02197			conserved hypothetical protein
+310	um02203	umd79-910		related to Na+/H+-exchanging protein
+311	um02206			conserved hypothetical protein
+312	um02207			conserved hypothetical protein
+313	um02213			conserved hypothetical protein
+314	um02216			related to Carrier protein YMC1, mitochondrial precursor
+315	um02217			related to glutamate carboxypeptidase II
+316	um02218			related to cysteine synthase
+317	um02219			putative protein
+318	um02221			conserved hypothetical protein
+319	um02222			related to membrane protein Dik6
+320	um02224			conserved hypothetical protein
+321	um02230			conserved hypothetical Ustilago-specific protein
+322	um02231			conserved hypothetical Ustilago-specific protein
+323	um02232			putative protein
+324	um02234			conserved hypothetical protein
+325	um02237			conserved hypothetical protein
+326	um02243			hypothetical protein
+327	um02246			conserved hypothetical protein
+328	um02253			related to amino acid vacuolar transport protein AVT2
+329	um02254			hypothetical protein
+330	um02258			probable ATP-binding cassette (ABC) transporter
+331	um02264			putative protein
+332	um02266			related to CDS1 - CDP-diacylglycerol synthase
+333	um02282			conserved hypothetical protein
+334	um02285			related to Na+/H+ antiporter AnNHA1
+335	um02286			conserved hypothetical protein
+336	um02290			conserved hypothetical protein
+337	um02291			related to gamma-glutamyltransferase
+338	um02297			conserved hypothetical Ustilago-specific protein
+339	um02299			hypothetical protein
+340	um02316			conserved hypothetical protein
+341	um02325.2	um02325		conserved hypothetical protein
+342	um02333			putative protein
+343	um02336			conserved hypothetical protein
+344	um02338			related to PEP12 syntaxin (T-SNARE), vacuolar
+345	um02365		ctp1	probable CTP1 - Mitochondrial citrate transporter - member of the mitochondrial carrier (MCF) family
+346	um02367			conserved hypothetical protein
+347	um02374			related to monosaccharide transporter
+348	um02379			conserved hypothetical protein
+349	um02381			conserved hypothetical protein
+350	um02383		Pra1	a2-pheromone receptor Pra1
+351	um02384	umd83-430	Rba1	a1-mating type protein Rba1
+352	um02387			related to oligopeptide transporter
+353	um02395			related to ferric reductase
+354	um02396	umd83-540		conserved hypothetical protein
+355	um02398			related to squalene monooxygenase
+356	um02411	umd83-690	Glo1	glyoxaloxidase 1
+357	um02433.2	um02433		related to nuclear division protein Rft1
+358	um02436		neo1	probable NEO1 - P-type ATPase, a proposed aminophospholipid translocase
+359	um02457			related to OXA1 - cytochrome oxidase biogenesis protein, mitochondrial
+360	um02459			related to neutral amino acid permease
+361	um02465			related to Calcium influx promoting protein ehs1
+362	um02475			hypothetical protein
+363	um02487			conserved hypothetical protein
+364	um02489			putative protein
+365	um02490		flr1	probable FLR1 - Putative H+ antiporter involved in multidrug resistance
+366	um02496			conserved hypothetical protein
+367	um02498			related to delta-6 fatty acid desaturase
+368	um02499			conserved hypothetical protein
+369	um02504			conserved hypothetical protein
+370	um02519			related to ALG6 - glucosyltransferase
+371	um02531			related to nucleotide diphosphatase
+372	um02540			hypothetical protein
+373	um02541			putative protein
+374	um02546			related to translocation protein sec62
+375	um02560			related to EMP24 protein precursor
+376	um02568		ycf1	probable YCF1 - Vacuolar ABC transporter responsible for vacuolar sequestration of glutathione-S-conjugates
+377	um02576			related to Sterol regulatory element binding protein cleavage-activating protein
+378	um02578			related to Het-c heterokaryon incompatibility protein
+379	um02581		pma1	probable PMA1 - H+-transporting P-type ATPase
+380	um02585			related to TPO1 - Vacuolar polyamine-H+ antiporter
+381	um02586			related to cleft lip and palate transmembrane protein 1 (CLPTM1)
+382	um02598			related to mfs1 - putative multidrug transporter
+383	um02599			related to lysophospholipase
+384	um02615			hypothetical protein
+385	um02620			conserved hypothetical protein
+386	um02625		dur3	probable DUR3 - Urea permease
+387	um02629			related to YRO2 - putative plasma membrane protein, transcriptionally regulated by Haa1p
+388	um02638			conserved hypothetical protein
+389	um02640			conserved hypothetical protein
+390	um02651			related to dihydroceramide delta(4)-desaturase
+391	um02652			putative protein
+392	um02653			related to alpha-1,3-mannosyltransferase alg2
+393	um02663			conserved hypothetical protein
+394	um02668			conserved hypothetical protein
+395	um02682			conserved hypothetical protein
+396	um02686.2	um02686		related to ATM1 - Mitochondrial inner membrane ABC transporter involved in the maturation of cytosolic iron-sulfur (Fe/S) cluster-containing proteins
+397	um02693			related to Endothelin-converting enzyme 1
+398	um02700			conserved hypothetical protein
+399	um02701.2	um02701		hypothetical protein
+400	um02704			related to allantoate permease
+401	um02707			conserved hypothetical protein
+402	um02711			related to ADAM protease ADM-B
+403	um02723.2	um02723		probable mfs-multidrug-resistance transporter
+404	um02729			conserved hypothetical protein
+405	um02730			conserved hypothetical protein
+406	um02731			related to GPI-anchor transamidase complex subunit Gpi16
+407	um02744			related to Iron transport protein 1
+408	um02753			conserved hypothetical protein
+409	um02756			hypothetical protein
+410	um02763			conserved hypothetical protein
+411	um02770			hypothetical protein
+412	um02774			related to alternative oxidase precursor, mitochondrial
+413	um02791			related to GABA permease
+414	um02796			probable ATP-binding multidrug cassette transport protein
+415	um02803			related to beta-1,3-glucan binding protein
+416	um02804	umd94-410		conserved hypothetical protein
+417	um02810			conserved hypothetical Ustilago-specific protein
+418	um02813			conserved hypothetical Ustilago-specific protein
+419	um02818	umd95-40		related to Multidrug resistance-associated protein
+420	um02819			conserved hypothetical protein (N-terminal fragment)
+421	um02820			conserved hypothetical protein
+422	um02833			related to SEC66 - ER protein-translocation complex chain
+423	um02843		kex2	probable KEX2 - endoproteinase of late golgi compartment
+424	um02844			conserved hypothetical protein
+425	um02847			related to ISC1 - Inositol phosphoSphingolipid phospholipase
+426	um02851			putative protein
+427	um02869			related to General alpha-glucoside permease
+428	um02877			conserved hypothetical protein
+429	um02900			conserved hypothetical protein
+430	um02926			conserved hypothetical protein
+431	um02929			related to longevity-assurance protein LAG1
+432	um02937			conserved hypothetical protein
+433	um02972	umd101-560		putative protein
+434	um02974			related to AUT4 - breakdown of autophagic vesicles inside the vacuole
+435	um02993			conserved hypothetical protein
+436	um02999			conserved hypothetical protein
+437	um03001			putative protein
+438	um03002			putative protein
+439	um03003		gup1	probable GUP1 - Multimembrane-spanning protein essential for proton symport of glycerol
+440	um03010			conserved hypothetical protein
+441	um03019			conserved hypothetical protein
+442	um03028			conserved hypothetical protein
+443	um03034			conserved hypothetical protein
+444	um03045.2	um03045		related to BSD2 - metal homeostasis protein
+445	um03049			related to neutral amino acid permease
+446	um03078			conserved hypothetical protein
+447	um03082			conserved hypothetical protein
+448	um03088			conserved hypothetical protein
+449	um03105			hypothetical protein
+450	um03110			related to ZRT2 - Zinc transporter II
+451	um03115			related to Sge1 - drug resistance protein
+452	um03120	umd105-180		conserved hypothetical protein
+453	um03121			related to beta-1,3-glucan binding protein
+454	um03122			related to beta-1,3-glucan binding protein
+455	um03132			conserved hypothetical protein
+456	um03139			conserved hypothetical protein
+457	um03140			conserved hypothetical protein
+458	um03148			related to ATP-binding cassette protein (ABC) transporter
+459	um03156	umd108-270		related to SSU81 protein, involved in the HOG1 high-osmolarity signal transduction pathway
+460	um03165			related to peroxisomal membrane protein pex13
+461	um03175			putative protein
+462	um03204		Chs8	chitin synthase 8
+463	um03218			related to Secretory carrier-associated membrane protein 2
+464	um03232			conserved hypothetical Ustilago-specific protein
+465	um03281			putative protein
+466	um03283	umd112-130		conserved hypothetical protein
+467	um03293			related to DNF1 - protein transporter
+468	um03310			conserved hypothetical protein
+469	um03317	um12220		related to PRM1 - Pheromone-regulated multispanning membrane protein
+470	um03325			probable general amino acid permease
+471	um03330			conserved hypothetical protein
+472	um03344			conserved hypothetical protein
+473	um03349			conserved hypothetical protein
+474	um03352			conserved hypothetical protein
+475	um03355			related to ERV25 - component of the COPII-coated vesicles
+476	um03379			conserved hypothetical protein
+477	um03383			conserved hypothetical protein
+478	um03384			related to YHK8 - putative mediator of drug efflux
+479	um03400			related to HNM1 - choline permease
+480	um03404			hypothetical protein
+481	um03411			probable endo-1,4-beta-xylanase
+482	um03424			conserved hypothetical protein
+483	um03436			related to triacylglycerol lipase
+484	um03454			related to ATP-binding cassette, sub-family A
+485	um03465			related to KEX1 protein precursor
+486	um03468			conserved hypothetical protein
+487	um03469			related to GPI13 - protein involved in glycosylphosphatidylinositol biosynthesis
+488	um03470			related to putative calcium P-type ATPase NCA-2
+489	um03474			conserved hypothetical protein
+490	um03475		pho89	probable PHO89 - Na+/phosphate co-transporter
+491	um03476			conserved hypothetical protein
+492	um03487			putative protein
+493	um03507			conserved hypothetical protein
+494	um03513			conserved hypothetical protein
+495	um03522			related to UGA4 - GABA permease - also involved in delta-aminolevulinate transport
+496	um03540			conserved hypothetical protein
+497	um03551			related to Glucose oxidase
+498	um03554			conserved hypothetical protein
+499	um03558			conserved hypothetical protein
+500	um03559			related to beta-1,3-glucan binding protein
+501	um03560			related to beta-1,3-glucan binding protein
+502	um03561			conserved hypothetical protein
+503	um03564			conserved hypothetical protein
+504	um03569			related to KRE6 - beta-1,6-glucan synthetase
+505	um03574			putative protein
+506	um03575			putative protein
+507	um03576	um10572		related to MET10 - sulfite reductase flavin-binding subunit
+508	um03593			probable sterol delta 5,6-desaturase
+509	um03595			conserved hypothetical protein
+510	um03597			conserved hypothetical protein
+511	um03607		aro1	probable ARO1 - Pentafunctional AROM polypeptide
+512	um03610			related to YSR3 - dihydrosphingosine-1-phosphate phosphatase
+513	um03611			related to LAG1 - longevity-assurance protein
+514	um03612			conserved hypothetical protein
+515	um03616			related to DCR2 - dosage-dependent cell cycle regulator
+516	um03619			related to multidrug resistant protein
+517	um03622			related to TSC13 - Enoyl reductase involved in very long chain fatty acid elongation
+518	um03627		sco1	probable SCO1 - involved in stabilization of Cox1p and Cox2p
+519	um03628			related to molybdenum cofactor sulfurase HxB protein
+520	um03640			conserved hypothetical protein
+521	um03643.2	um03643		conserved hypothetical protein
+522	um03645			related to beta-1,3-glucan binding protein
+523	um03647		scs7	probable SCS7 - required for hydroxylation of ceramide
+524	um03650			hypothetical protein
+525	um03652			conserved hypothetical protein
+526	um03655			conserved hypothetical protein
+527	um03657			conserved hypothetical protein
+528	um03658	umd124-80		conserved hypothetical protein
+529	um03662	umd124-130	Erg11	sterol 14 alpha-demethylase
+530	um03663			probable uracil permease
+531	um03669			probable NADH dehydrogenase (ubiquinone), 64 kD subunit, mitochondrial
+532	um03685			related to YVC1 - vacuolar cation channel
+533	um03690			probable purine permease
+534	um03691			probable lysine-specific permease
+535	um03694.2	um03694		conserved hypothetical protein
+536	um03700		dip5	probable DIP5 - Glutamate and aspartate permease - able to mediate transport of other amino acids
+537	um03718			related to surfeit locus protein 4
+538	um03744			hypothetical protein
+539	um03746			conserved hypothetical Ustilago-specific protein
+540	um03747			conserved hypothetical Ustilago-specific protein
+541	um03749	umd126-90		conserved hypothetical Ustilago-specific protein
+542	um03751			hypothetical protein
+543	um03789			putative protein
+544	um03807			conserved hypothetical protein
+545	um03812		nhx1	probable NHX1 - Na+/H+ exchanger of the prevacuolar compartment - involved in salt tolerance
+546	um03814.2	um03814		conserved hypothetical protein
+547	um03818			conserved hypothetical protein
+548	um03823			hypothetical protein
+549	um03828			hypothetical protein
+550	um03830			conserved hypothetical protein
+551	um03841			related to IRE1 - protein kinase
+552	um03857			conserved hypothetical protein
+553	um03861		ybt1	probable YBT1 - Vacuolar, ABC protein transporting bile acids
+554	um03876.2	um03876		related to chloride channel protein
+555	um03877			hypothetical protein
+556	um03880			conserved hypothetical protein
+557	um03884			conserved hypothetical protein
+558	um03888			related to multidrug resistant protein
+559	um03908			related to TPO1 - Vacuolar polyamine-H+ antiporter
+560	um03918			conserved hypothetical protein
+561	um03919			related to FIS1 - protein involved in mitochondrial division
+562	um03923			conserved hypothetical protein
+563	um03929			conserved hypothetical protein
+564	um03933	umd136-70		related to WWM1 - WW domain containing protein interacting with Metacaspase
+565	um03937			probable diacylglycerol acyltransferase type 2b
+566	um03947			probable carboxypeptidase 2
+567	um03958		fen1	probable FEN1 - fatty acid elongase
+568	um03963		Pom152	nuclear pore membrane protein
+569	um03982			hypothetical protein
+570	um04015		Udh1	steroid 5alpha-reductase
+571	um04029			conserved hypothetical protein
+572	um04031			related to BST1 - negative regulator of COPII vesicle formation
+573	um04039			hypothetical protein
+574	um04042			conserved hypothetical protein
+575	um04056		snq2	probable SNQ2 - ABC transporter involved in multidrug resistance
+576	um04064			related to Glucoamylase precursor
+577	um04065			conserved hypothetical protein
+578	um04071			conserved hypothetical protein
+579	um04084	um11527		related to Per-hexamer repeat protein 5
+580	um04085			conserved hypothetical Ustilago-specific protein
+581	um04086	umd142-210		conserved hypothetical Ustilago-specific protein
+582	um04096	umd143-30		hypothetical protein
+583	um04104			conserved hypothetical Ustilago-specific protein
+584	um04117			related to CAX4 - required for full levels of dolichol-linked oligosaccharides
+585	um04118			conserved hypothetical protein
+586	um04125			related to YRO2 - strong similarity to HSP30 heat shock protein Yro1p
+587	um04130		Dik6	Dik6, novel virulence factor
+588	um04133			related to NAD(P)H-dependent oxidoreductase
+589	um04139	umd148-30		conserved hypothetical protein
+590	um04139	um10883		conserved hypothetical protein
+591	um04146			related to putative phosphate transporter 1
+592	um04154			conserved hypothetical protein
+593	um04160		Dkh6	Dkh6, novel virulence factor
+594	um04166			related to SHE9 - mitochondrial inner membrane protein
+595	um04169			related to leucine zipper-EF-hand containing transmembrane protein 1
+596	um04181			conserved hypothetical protein
+597	um04185			conserved hypothetical protein
+598	um04186			probable general amino acid permease
+599	um04189			related to Cytochrome P450
+600	um04197			related to purine-cytosine permease
+601	um04198			related to OST3 - oligosaccharyltransferase gamma subunit
+602	um04210			probable phytoene dehydrogenase
+603	um04211			conserved hypothetical protein
+604	um04228			related to SSO1 - syntaxin-related protein
+605	um04238			conserved hypothetical protein
+606	um04250			related to AKR1 - ankyrin repeat-containing protein
+607	um04259			conserved hypothetical protein
+608	um04286			hypothetical protein
+609	um04290		Chs2	chitin synthase 2
+610	um04292			conserved hypothetical protein
+611	um04297			conserved hypothetical protein
+612	um04304			related to allantoate permease
+613	um04319			related to potassium/hydrogen antiporter
+614	um04329			conserved hypothetical protein
+615	um04343			related to Fruiting body protein SC7 precursor.
+616	um04347			probable isp4 - oligopeptide transporter
+617	um04350			related to 3-phytase A precursor
+618	um04353			related to glycosyl transferase, group 2 family protein
+619	um04354			conserved hypothetical protein
+620	um04357			related to endo-1,6-beta-d-glucanase precursor
+621	um04358			conserved hypothetical protein
+622	um04362			related to Cytochrome P450 8B1
+623	um04374		Erg9	farnesyl-diphosphate farnesyltransferase
+624	um04376			conserved hypothetical protein
+625	um04380			related to ATG9 - integral membrane protein required for Cvt and autophagy transport
+626	um04383			related to ERP2 - p24 protein involved in membrane trafficking
+627	um04385			hypothetical protein
+628	um04391			conserved hypothetical protein
+629	um04394			probable P-type ATPase (amino-phospholipid-translocase)
+630	um04405		Gas1	alpha-glucosidase II precursor
+631	um04410			probable siderophore iron transporter mirC
+632	um04423	umd157-340		related to potassium transporter TRK-1
+633	um04426			conserved hypothetical protein
+634	um04441			related to 17-beta-hydroxysteroid dehydrogenase
+635	um04451			conserved hypothetical protein
+636	um04457			conserved hypothetical protein
+637	um04461		pmr1	probable PMR1 - secretory pathway Ca++-transporting P-type ATPase
+638	um04463	umd157-730		related to vesicular integral-membrane protein VIP36
+639	um04475			conserved hypothetical protein
+640	um04478		itr2	probable ITR2 - myo-inositol transporter
+641	um04479			related to 4-coumarate--CoA ligase
+642	um04491			similarity to polyprotein, pseudogene
+643	um04496			related to Ceramide glucosyltransferase
+644	um04500			conserved hypothetical protein
+645	um04523		Ump1	low affinity ammonium transporter
+646	um04525			conserved hypothetical protein
+647	um04528			conserved hypothetical protein
+648	um04538			related to DAL5 - Allantoate and ureidosuccinate permease
+649	um04550			conserved hypothetical protein
+650	um04553			related to growth hormone inducible transmembrane protein
+651	um04560			putative protein
+652	um04577		dur3	probable DUR3 - Urea permease
+653	um04580			conserved hypothetical protein
+654	um04601			hypothetical protein
+655	um04602	um10987		related to bumetanide-sensitive Na-K-Cl cotransport protein
+656	um04627			putative protein
+657	um04637			conserved hypothetical protein
+658	um04649	um11547		related to ALG1 - beta-mannosyltransferase
+659	um04655			conserved hypothetical protein
+660	um04674			related to YBT1 - Vacuolar, full-size ABC protein transporting bile acids
+661	um04678	um11762		conserved hypothetical protein
+662	um04680			related to Monocarboxylate transporter
+663	um04683			conserved hypothetical protein
+664	um04695		hnm1	probable HNM1 - Choline permease
+665	um04698	umd171-60		conserved hypothetical protein
+666	um04711			conserved hypothetical protein
+667	um04720			putative protein
+668	um04721			conserved hypothetical protein
+669	um04724			conserved hypothetical protein
+670	um04734			putative protein
+671	um04743			related to PPX1 - exopolyphosphatase
+672	um04749			conserved hypothetical protein
+673	um04750			conserved hypothetical protein
+674	um04764			putative protein
+675	um04771			related to KHA1 - Putative K+/H+ antiporter
+676	um04779			conserved hypothetical protein
+677	um04785			related to protein hus1, required for S-M and DNA damage checkpoints
+678	um04796			conserved hypothetical protein
+679	um04811			related to ADP1 - ABC transporter
+680	um04815			putative protein
+681	um04817			related to TCB3 - protein localized to membranes, bud-enriched
+682	um04836	umd175-620		hypothetical protein
+683	um04841			conserved hypothetical protein
+684	um04845			conserved hypothetical protein (N-terminal fragment)
+685	um04847			conserved hypothetical protein
+686	um04856			conserved hypothetical protein
+687	um04859	umd177-90		related to PER1 protein, involved in manganese homeostasis
+688	um04886			related to HOL1 protein (member of major facilitator superfamily)
+689	um04889	um11154		related to beta-1,3-glucan binding protein
+690	um04896			conserved hypothetical protein
+691	um04912			putative protein
+692	um04923			conserved hypothetical protein
+693	um04966			conserved hypothetical protein
+694	um04980			putative protein
+695	um04982		leu5	probable LEU5 - mitochondrial coenzyme A transporter- member of the mitochondrial carrier (MCF) family
+696	um04985		orm1	probable ORM1 - unfolded protein response protein
+697	um04988		odc2	probable ODC2 - Mitochondrial 2-oxodicarboxylate carrier
+698	um04994			related to WBP1 - oligosaccharyl transferase beta subunit precursor
+699	um04998			conserved hypothetical protein
+700	um05023			probable monosaccharide transporter
+701	um05030		phb2	probable PHB2 - prohibitin
+702	um05033			related to glucose/galactose transporter
+703	um05034			related to Cephamycin export protein cmcT
+704	um05035		agp3	probable AGP3 - Protein of the amino-acid permease family
+705	um05038		Acu2	K, P-type ATPase (mediates high-affinity potassium or sodium uptake)
+706	um05046			conserved hypothetical protein
+707	um05065			related to SPT23 - suppressor of TY retrotransposon
+708	um05069			related to short-chain dehydrogenase/reductase
+709	um05070			conserved hypothetical protein
+710	um05072	umd187-70		conserved hypothetical Ustilago-specific protein
+711	um05074			probable Cytochrome P450 monooxygenase/Phenylacetate hydroxylase
+712	um05079		ctp1	probable CTP1 - Mitochondrial citrate transporter - member of the mitochondrial carrier (MCF) family
+713	um05082			conserved hypothetical protein
+714	um05102			conserved hypothetical protein
+715	um05114			related to multidrug resistance protein 4
+716	um05122			related to carboxylic acid transport protein JEN1
+717	um05132			related to VCX1 - Vacuolar Ca++/H+ exchanger
+718	um05153			related to MNT4 - putative alpha-1,3-mannosyltransferase
+719	um05167			conserved hypothetical protein
+720	um05174			putative protein
+721	um05177			related to endosomal protein EMP70 precursor
+722	um05192			conserved hypothetical protein
+723	um05194			conserved hypothetical protein
+724	um05197			conserved hypothetical protein
+725	um05202			conserved hypothetical protein
+726	um05209			related to ALG11 - required for asparagine-linked glycosylation
+727	um05217			conserved hypothetical protein
+728	um05219			related to endoplasmic oxidoreductin 1 precursor
+729	um05226			conserved hypothetical protein
+730	um05230			probable Salicylate hydroxylase
+731	um05231			related to YIP3 protein - proposed to be involved in ER to Golgi transport
+732	um05238			conserved hypothetical protein
+733	um05248			related to TPO3 - Polyamine transport protein
+734	um05253			related to ATP-binding multidrug cassette transport protein
+735	um05259			conserved hypothetical protein
+736	um05260			related to inorganic phosphate transporter
+737	um05267			putative protein
+738	um05268			conserved hypothetical protein
+739	um05269			probable general amino acid permease
+740	um05271			related to Malic acid transport protein
+741	um05272			conserved hypothetical protein
+742	um05273	um10547		related to dipeptidyl aminopeptidase B
+743	um05290			putative protein
+744	um05293			probable oligosaccharyltransferase
+745	um05294			conserved hypothetical Ustilago-specific protein
+746	um05299			conserved hypothetical Ustilago-specific protein
+747	um05301			conserved hypothetical Ustilago-specific protein
+748	um05302			hypothetical protein
+749	um05305			conserved hypothetical Ustilago-specific protein
+750	um05311			conserved hypothetical Ustilago-specific protein
+751	um05314			conserved hypothetical Ustilago-specific protein
+752	um05319			conserved hypothetical Ustilago-specific protein
+753	um05329	umd191-860		related to flavin-containing monooxygenase
+754	um05329	um10562		related to flavin-containing monooxygenase
+755	um05329	um10563		related to flavin-containing monooxygenase
+756	um05330			putative protein
+757	um05331			conserved hypothetical protein
+758	um05346			conserved hypothetical protein
+759	um05347			conserved hypothetical protein
+760	um05349			conserved hypothetical protein
+761	um05352			related to MPD1 - Disulfide isomerase related protein
+762	um05355			related to acyl-CoA sterol acyltransferase
+763	um05361			related to Laccase I precursor
+764	um05382			conserved hypothetical protein
+765	um05383			conserved hypothetical protein
+766	um05393		Pig6	related to multidrug resistant protein
+767	um05396	umd192-690	pig4	conserved hypothetical protein
+768	um05411			probable quinate permease
+769	um05414			probable aflatoxin efflux pump AFLT
+770	um05420			related to vacuolar transport protein ESP1
+771	um05421			related to Multidrug resistance protein
+772	um05433		pmt4	probable PMT4 - dolichyl-phosphate-mannose--protein O-mannosyltransferase
+773	um05435			related to Glutaredoxin
+774	um05439			related to Chitin-binding protein
+775	um05442	umd195-70		related to monocarboxylate transporter 2
+776	um05446	umd195-110		conserved hypothetical protein
+777	um05452			related to TPO3 - Polyamine transport protein
+778	um05456			conserved hypothetical protein
+779	um05458			related to CCH1 - Calcium channel (alpha subunit)
+780	um05473			conserved hypothetical protein
+781	um05480		Chs7	chitin Synthase 7
+782	um05490			hypothetical protein
+783	um05506			conserved hypothetical protein
+784	um05514			conserved hypothetical protein
+785	um05520			conserved hypothetical protein
+786	um05526			conserved hypothetical protein
+787	um05527			conserved hypothetical protein
+788	um05539			conserved hypothetical protein
+789	um05547			related to Alpha-1,2 glucosyltransferase ALG10
+790	um05554			conserved hypothetical protein
+791	um05555			conserved hypothetical protein
+792	um05560			putative protein
+793	um05570			conserved hypothetical protein
+794	um05579			conserved hypothetical protein
+795	um05589			hypothetical protein
+796	um05595	umd203-310	vtc1	probable VTC1 - protein controls Sec18p/NSF-dependent priming of SNAREs and HOPS
+797	um05596	umd203-320		conserved hypothetical protein
+798	um05602			probable sugar transporter
+799	um05619			conserved hypothetical protein
+800	um05631			conserved hypothetical protein
+801	um05641			related to palmitoyl-protein thioesterase 1
+802	um05642		snq2	probable SNQ2 - ABC transporter involved in multidrug resistance
+803	um05645	umd206-120		related to VTI1 - v-SNARE: involved in Golgi retrograde protein traffic
+804	um05647			related to cation diffusion facilitator 10
+805	um05649			conserved hypothetical protein
+806	um05664			related to Cytochrome P450
+807	um05675			conserved hypothetical protein
+808	um05684			related to cystinosin
+809	um05686			putative protein
+810	um05690	umd206-580		conserved hypothetical Ustilago-specific protein
+811	um05692			related to COX10 - farnesyl transferase
+812	um05709		gpi8	probable GPI8 - GPI-anchor transamidase
+813	um05718			related to KRE6 - Beta-glucan synthase subunit
+814	um05725		opi3	probable OPI3 - methylene-fatty-acyl-phospholipid synthase
+815	um05729	umd210-50		conserved hypothetical protein
+816	um05733			conserved hypothetical protein
+817	um05736			conserved hypothetical protein
+818	um05737	umd210-120		conserved hypothetical protein
+819	um05739			conserved hypothetical protein
+820	um05741			conserved hypothetical protein
+821	um05742			conserved hypothetical protein
+822	um05760			hypothetical protein
+823	um05764			related to Malic acid transport protein
+824	um05769			related to Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 67 kDa subunit precursor
+825	um05777			conserved hypothetical protein
+826	um05782	umd212-170		capsule-associated protein-like protein
+827	um05783			related to UDP-galactose transporter
+828	um05785			acyl transferase-like protein
+829	um05786			related to UDP N-acetylglucosamine transporter
+830	um05787			conserved hypothetical protein
+831	um05791	umd212-280		related to Cytochrome P450
+832	um05794		ycf1	probable YCF1 - Vacuolar full-size ABC transporter, responsible for vacuolar sequestration of glutathione-S-conjugates
+833	um05795			conserved hypothetical protein
+834	um05800			probable zinc metallo-protease
+835	um05802			related to cell surface ferroxidase
+836	um05807			related to KRE6 - glucan synthase subunit
+837	um05809			related to KRE6 - glucan synthase subunit
+838	um05811			related to KRE6 - glucan synthase subunit
+839	um05812			related to Cyclohexanone monooxygenase
+840	um05819			hypothetical protein
+841	um05825		vcx1	probable VCX1 - Vacuolar Ca++/H+ exchanger
+842	um05840			conserved hypothetical protein
+843	um05869			probable carnitine/acyl carnitine carrier
+844	um05870			related to ERV1 - mitochondrial biogenesis and regulation of cell cycle
+845	um05889		Ump2	high affinity ammonium transporter
+846	um05897		cps1	probable CPS1 - Gly-X carboxypeptidase YSCS precursor
+847	um05898			conserved hypothetical protein
+848	um05901			conserved hypothetical protein
+849	um05922			related to RMD8 - Cytosolic protein required for sporulation
+850	um05925			related to TOK1 - Voltage-gated, outward-rectifying K+ channel protein of the plasma membrane
+851	um05933			probable Sulfate permease
+852	um05936			conserved hypothetical protein
+853	um05942			related to monocarboxylate permease
+854	um05944			hypothetical protein
+855	um05948			hypothetical protein
+856	um05952			putative protein
+857	um05953			putative protein
+858	um05954			related to SLY41 - Putative transporter of the triose phosphate translocator family
+859	um05958			probable maltose permease (MalP)
+860	um05964			related to esterase
+861	um05968	umd222-70		related to peptide transporter Mtd1
+862	um05972			probable Maltose permease
+863	um05974			putative protein
+864	um05976	umd223-60		hypothetical protein
+865	um05979			related to ferric reductase
+866	um05981			related to TPO1 - Vacuolar polyamine-H+ antiporter
+867	um05985			putative protein
+868	um05987			conserved hypothetical protein
+869	um06009			probable Leptomycin B resistance protein pmd1
+870	um06012			probable general amino acid permease
+871	um06014			putative protein
+872	um06032			conserved hypothetical protein
+873	um06049			putative protein
+874	um06059			conserved hypothetical protein
+875	um06060			putative protein
+876	um06075			related to beta-glucosidase
+877	um06076			related to quinate transport protein
+878	um06078			conserved hypothetical protein
+879	um06084	umd228-210		conserved hypothetical protein
+880	um06085			conserved hypothetical protein
+881	um06088			related to ALG9 - mannosyltransferase
+882	um06089			conserved hypothetical protein
+883	um06092			conserved hypothetical protein
+884	um06093			related to UDP-galactose transporter
+885	um06097			putative protein
+886	um06098			related to Extracellular elastinolytic metalloproteinase precursor
+887	um06102			related to Glucan 1,3-beta-glucosidase precursor
+888	um06116			putative protein
+889	um06126		Mig2-6	Mig2-6
+890	um06128			conserved hypothetical Ustilago-specific protein
+891	um06133			conserved hypothetical protein
+892	um06135			conserved hypothetical protein
+893	um06138		ptr2	probable PTR2 - Di- and tripeptide permease
+894	um06139			related to zinc transporter
+895	um06146			putative protein
+896	um06148			conserved hypothetical protein
+897	um06152			putative protein
+898	um06157			related to Spherulin 4 precursor
+899	um06168			putative protein
+900	um06174			related to YEH1 - steryl ester hydrolase
+901	um06175			related to SEC63 - ER protein-translocation complex subunit
+902	um06180	umd234-190	Mig2-4	Mig2-4
+903	um06181		Mig2-5	Mig2-5
+904	um06200			related to Peroxisomal assembly protein PEX3
+905	um06205			related to Alpha-1,3-mannosyltransferase
+906	um06253		dur3	probable DUR3 - Urea permease
+907	um06255			hypothetical protein
+908	um06268			related to MAM3 - Protein required for normal mitochondrial morphology
+909	um06270			conserved hypothetical protein
+910	um06273			probable NADPH-cytochrome P450 reductase
+911	um06279	umd241-10		hypothetical protein
+912	um06281			conserved hypothetical protein
+913	um06284			related to Cutl1 or CASP protein
+914	um06287			related to Phytoene synthase
+915	um06290			conserved hypothetical protein
+916	um06295			related to dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase
+917	um06298			related to CCC1 - Proposed vacuolar iron transport protein
+918	um06315			hypothetical protein
+919	um06316			related to GWT1 - GPI-anchored wall transfer protein
+920	um06329		Dpm1	dolichyl-phosphate beta-D-mannosyltransferase
+921	um06333			related to BNA4 - kynurenine 3-mono oxygenase
+922	um06334			related to beta 1,4-mannosyltransferase (egghead protein)
+923	um06335			putative protein
+924	um06349			related to siderophore iron transporter mirc
+925	um06368			probable small subunit of ribonucleotide reductase
+926	um06370			conserved hypothetical protein
+927	um06371			conserved hypothetical protein
+928	um06372			conserved hypothetical protein
+929	um06391			related to multidrug resistant protein
+930	um06393			related to YOP1 - Ypt-interacting protein
+931	um06401	um11006		conserved hypothetical protein
+932	um06406			related to Peripheral-type benzodiazepine receptor
+933	um06416	umd248-140		conserved hypothetical protein
+934	um06420			conserved hypothetical protein
+935	um06426			related to SLC1 - 1-acyl-sn-gylcerol-3-phosphate acyltransferase
+936	um06431	umd248-290		conserved hypothetical protein
+937	um06433		Acu1	K, P-type ATPase
+938	um06434			conserved hypothetical protein
+939	um06440			conserved hypothetical protein
+940	um06459			related to Cytochrome P450 3A5
+941	um06461			related to Leptomycin B resistance protein pmd1
+942	um06480	umd254-10		putative protein
+943	um06485			putative protein
+944	um06490		pho84	probable PHO84 - Inorganic phosphate permease
+945	um06504	umd265-10		conserved hypothetical protein
+946	um10003	um00021		conserved hypothetical protein
+947	um10004	um00022		related to a retinal short-chain dehydrogenase/reductase
+948	um10006	um00023		related to SCJ1 protein
+949	um10012	um00051		conserved hypothetical protein
+950	um10017	um00070		conserved hypothetical protein
+951	um10018	um00073		related to ERD1 protein, required for retention of luminal ER proteins
+952	um10023	um00106	Fer2	high-affinity iron permease
+953	um10024	um00107		conserved hypothetical protein
+954	um10031	um00134		related to embryonic protein DC-8
+955	um10035	um00143		probable protein transport protein sec61 beta subunit
+956	um10046	um00173		conserved hypothetical protein
+957	um10048	um00185		related to COX8 - cytochrome-c oxidase chain VIII
+958	um10049	um00186		related to MNR2 - Manganese resistance protein
+959	um10052	um00200		conserved hypothetical protein
+960	um10062	um02153		related to monooxygenase
+961	um10072	um02205		probable monosaccharide transporter
+962	um10076	um02228		hypothetical protein
+963	um10115	umd9-340		hypothetical protein
+964	um10117	um00462	Chs4	chitin Synthase 4
+965	um10120	um00474	Chs3	chitin synthase 3
+966	um10126	um02349		related to SFT2/YBL102W
+967	um10141	um02391		conserved hypothetical protein
+968	um10155	um02434		putative protein
+969	um10170	um05096		related to multidrug resistance protein 1
+970	um10178			conserved hypothetical protein
+971	um10180	um05140		related to ATP17 - ATP synthase complex, subunit f
+972	um10184	um05150		conserved hypothetical protein
+973	um10192	um05176		related to TMS1 protein
+974	um10193	um05181		hypothetical protein
+975	um10195	um05188		probable endoplasmic reticulum insertion protein SEC61
+976	um10211	um05372		related to EXG1 - exo-beta-1,3-glucanase (I/II), major isoform
+977	um10214	um05388		putative protein
+978	um10232	um01294		probable cytochrome b5
+979	um10233	um01303		conserved hypothetical Ustilago-specific protein
+980	um10245	um01345		conserved hypothetical protein
+981	um10258	um01839		hypothetical protein
+982	um10259			conserved hypothetical protein
+983	um10262			conserved hypothetical protein
+984	um10265	um01876		conserved hypothetical protein
+985	um10266	um01880		conserved hypothetical protein
+986	um10268	um01895		putative protein
+987	um10272	um01914		putative protein
+988	um10274	um01918		putative protein
+989	um10275			conserved hypothetical protein (N-terminal fragment)
+990	um10277.2	um10277	Csh5	chitin synthase 5 (csh5)
+991	um10280	umd86-400		related to vacuolar ATP synthase subunit H
+992	um10287			probable calnexin (C-terminal fragment)
+993	um10301	um02648		hypothetical protein
+994	um10302.2	um10302		conserved hypothetical protein
+995	um10302.2	um10303		conserved hypothetical protein
+996	um10307	um02670		conserved hypothetical protein
+997	um10317.2	um10317		putative protein
+998	um10320.2	um10320		related to CWH43 - putative sensor/transporter protein
+999	um10330	um02946		related to AVT3 - Vacuolar transporter, involved in amino acid efflux from the vacuole
+1000	um10332	um02952		conserved hypothetical protein
+1001	um10336	um02965		conserved hypothetical protein
+1002	um10338	um02970		conserved hypothetical protein
+1003	um10342	um02987		putative protein
+1004	um10364	um03041		related to KRE6 - glucan synthase subunit
+1005	um10365	um03048		related to YBT1 - Vacuolar, ABC protein transporting bile acids
+1006	um10367	um03052	Chs6	chitin synthase 6
+1007	um10377	um03087		conserved hypothetical protein
+1008	um10378			related to DIP5 - glutamate and aspartate permease (N-terminal fragment)
+1009	um10380	um03137		conserved hypothetical protein
+1010	um10400	um03197		related to triose phosphate/3-phosphoglycerate/phosphate translocator
+1011	um10412	um04240		conserved hypothetical protein
+1012	um10413	um04243		hypothetical protein
+1013	um10418	um04256		hypothetical protein
+1014	um10421	um04264		related to DPP1 - diacylglycerol pyrophosphate phosphatase
+1015	um10423	um04266		conserved hypothetical protein
+1016	um10424	um04267		related to PTM1 - member of the major facilitator superfamily
+1017	um10432	um04287		related to ATP-binding cassette, sub-family G, member 2
+1018	um10438	um03438		conserved hypothetical protein
+1019	um10441	um03444		probable synaptobrevin (v-SNARE) homolog present on post-Golgi vesicles
+1020	um10445	um03455		conserved hypothetical protein
+1021	um10446	um03479		putative protein
+1022	um10449.2	um10449		conserved hypothetical protein
+1023	um10451	um01925		related to cytochrome c oxidase subunit I
+1024	um10452	um01930		related to channel protein
+1025	um10468.2	um10468		conserved hypothetical protein
+1026	um10471	um00605		related to glucosyltransferase
+1027	um10475			putative protein
+1028	um10478	um03668		related to RER1 protein
+1029	um10484	um03679		related to ALG7 - UDP-N-acetylglucosamine-1-phosphate transferase
+1030	um10488	um03693		conserved hypothetical protein
+1031	um10491	um03703		putative protein
+1032	um10492	um03705		hypothetical protein
+1033	um10494	um03715		related to Mannosyl-oligosaccharide 1,2-alpha-mannosidase IC
+1034	um10497	um03723		related to 3-ketosphinganine reductase
+1035	um10498	um03725		putative protein
+1036	um10522			related to YPC1 - Alkaline ceramidase
+1037	um10523	um04425		conserved hypothetical protein
+1038	um10525	um04432		hypothetical protein
+1039	um10528	um04437		related to STE6 - ABC transporter
+1040	um10557	um05315		conserved hypothetical Ustilago-specific protein
+1041	um10559	um05321		conserved hypothetical protein
+1042	um10561	um05324		related to VPS10 domain-containing receptor SorCS1 precursor
+1043	um10565	um00873		hypothetical protein
+1044	um10568			hypothetical protein
+1045	um10582	um04699		conserved hypothetical protein
+1046	um10606	um02795		conserved hypothetical protein
+1047	um10607	um02800		related to NADH-ubiquinone oxidoreductase MLRQ subunit
+1048	um10608	um02805		related to Quinate permease
+1049	um10628			conserved hypothetical protein
+1050	um10637			conserved hypothetical protein (N-terminal fragment)
+1051	um10643	um03215		related to dihydroorotate dehydrogenase, mitochondrial precursor
+1052	um10646	um03219		related to CTR2 - Protein involved in copper transport
+1053	um10648	um03230		related to DNF2 - Non-essential P-type ATPase
+1054	um10649	um03236		conserved hypothetical protein
+1055	um10653	um03326		conserved hypothetical protein
+1056	um10686	um04783		conserved hypothetical protein
+1057	um10694	um04821		conserved hypothetical protein
+1058	um10704	um04843		conserved hypothetical protein
+1059	um10718	um05637	Chs1	chitin synthase 1
+1060	um10740	um05696		related to apoptotic cell death regulator DAD1
+1061	um10749	um05474		probable dolichyl-phosphate-mannose--protein mannosyltransferase
+1062	um10755	um05488		conserved hypothetical protein
+1063	um10756	um05492		conserved hypothetical protein
+1064	um10761	um06286		conserved hypothetical protein
+1065	um10763	um06289		conserved hypothetical protein
+1066	um10772	um06303		putative protein
+1067	um10777	um06319		conserved hypothetical protein
+1068	um10814	um01546		conserved hypothetical protein
+1069	um10815	um01548		conserved hypothetical protein
+1070	um10823			conserved hypothetical protein
+1071	um10825	um03275		related to 3-hydroxyacyl-CoA dehydrogenase
+1072	um10826			conserved hypothetical protein
+1073	um10835	um03311		related to Cytochrome b561
+1074	um10839	umd112-500	fmp43	probable FMP43 - protein found in mitochondrial proteome, uncharacterized
+1075	um10843			putative protein (N-terminal fragment)
+1076	um10844	um04331		conserved hypothetical protein
+1077	um10851	umd177-20		conserved hypothetical protein
+1078	um10854	um04857		conserved hypothetical protein
+1079	um10856	um04866		related to YHC3 - protein involved in vacuolar arginine transport
+1080	um10865	um05962		conserved hypothetical protein
+1081	um10868	um01751		conserved hypothetical protein
+1082	um10875	um01769		conserved hypothetical protein
+1083	um10878	um01780		conserved hypothetical protein
+1084	um10884	um04140		related to LPE10 - strong similarity to Mrs2p
+1085	um10896			probable oligopeptide transporter (C-terminal fragment)
+1086	um10906	um04568		conserved hypothetical protein
+1087	um10908	um04574	opt1	probable OPT1 - High-affinity glutathione transporter
+1088	um10911	um04586		conserved hypothetical protein
+1089	um10937	um05713		conserved hypothetical protein
+1090	um10939			putative protein
+1091	um10946	um06483		related to TNA1 - High affinity nicotinic acid plasma membrane permease
+1092	um10949			conserved hypothetical protein (N-terminal fragment)
+1093	um10964	um00267		conserved hypothetical protein
+1094	um10968	um06230	vtc4	probable VTC4 - Vacuolar Transporter Chaperone
+1095	um10986	um04600		putative protein
+1096	um10989	um04606		related to NADH-ubiquinone oxidoreductase 21 kDa subunit
+1097	um11005	um06392		related to COX15 - cytochrome oxidase assembly factor
+1098	um11014	um03369		related to SCT1 - glycerol 3-phosphate/dihydroxyacetone phosphate dual substrate acyltransferase
+1099	um11017	um03385		related to CAP59 (required for capsule formation)
+1100	um11020			conserved hypothetical protein
+1101	um11026	um05871		related to phospholipase A2, cytosolic
+1102	um11027	um05874	sec22	probable SEC22 - synaptobrevin (V-SNARE)
+1103	um11048	um04011		conserved hypothetical protein
+1104	um11057	um04028		related to OPT1 - High-affinity glutathione transporter
+1105	um11063.2	um11063		conserved hypothetical protein (N-terminal fragment)
+1106	um11071	um03420		conserved hypothetical protein
+1107	um11073	um03423		conserved hypothetical protein
+1108	um11083	um03489		related to p24 protein, involved in membrane trafficking
+1109	um11084.2	um11084		probable voltage-gated chloride channel (clc-a)
+1110	um11088	um03492		conserved hypothetical protein
+1111	um11089			related to CHS7 - control of protein export from the ER (like chitin synthase III)
+1112	um11096	um03519		related to YOP1 - Ypt-interacting protein
+1113	um11097	um03526		related to QCR10 - ubiquinol--cytochrome-c reductase 8.5 kDa subunit
+1114	um11105	um03849		related to nitrate transporter
+1115	um11112	um04103		related to Versicolorin B synthase
+1116	um11120			conserved hypothetical protein
+1117	um11136	um01636		related to PFA4 - Palmitoyltransferase
+1118	um11149	um04366		conserved hypothetical protein
+1119	um11150	um04369		related to Uracil permease
+1120	um11155	um04890		conserved hypothetical protein
+1121	um11159			putative protein
+1122	um11166.2	um11166		conserved hypothetical protein
+1123	um11167	um00709	tim17	probable TIM17 - mitochondrial inner membrane import translocase subunit
+1124	um11169	um00718		conserved hypothetical protein
+1125	um11171	um00720		related to sugar transport protein
+1126	um11172	um00724	fen2	probable FEN2 - Pantothenate permease
+1127	um11173	um00730		putative protein
+1128	um11174	um00732		conserved hypothetical protein
+1129	um11180	umd203-330		putative protein
+1130	um11193	um05823		putative protein
+1131	um11206			conserved hypothetical protein
+1132	um11212	um06122	qcr9	probable QCR9 - ubiquinol--cytochrome-c reductase subunit 9
+1133	um11219	um06172		related to TLG2 - member of the syntaxin family of t-SNAREs
+1134	um11220	um06173		related to dolichyl-phosphate-mannose-protein mannosyltransferase
+1135	um11228			related to CAAX prenyl protease 2
+1136	um11230	um06216	Pig2	related to protein disulfide isomerase
+1137	um11244	um00838		related to FRE4 - Ferric reductase
+1138	um11245	um00839		related to FRE6 - Ferric reductase
+1139	um11250	um06177	Mig2-3	Mig2-3
+1140	um11253	um00849		conserved hypothetical protein
+1141	um11254	um00850		conserved hypothetical protein
+1142	um11267	um01036		related to EPT1 - sn-1,2-diacylglycerol ethanolamine- and cholinephosphotransferase
+1143	um11272	um01057		conserved hypothetical protein
+1144	um11279	um01097		conserved hypothetical protein
+1145	um11288	um03913		probable ubiquinol-cytochrome c reductase complex 11 kDa protein
+1146	um11289	um03915		conserved hypothetical protein
+1147	um11297	um06150		conserved hypothetical protein
+1148	um11339	um01430	Fer7	related to Siderophore iron transporter 3
+1149	um11341	um00341		related to ALG12 - alpha-1,6-mannosyltransferase
+1150	um11347.2	um11347		related to GPI14 - Glycosylphosphatidylinositol-alpha 1,4 mannosyltransferase I
+1151	um11349	um00359		conserved hypothetical protein
+1152	um11359	um01693		related to BOR1 - boron efflux transporter
+1153	um11386	um02000		conserved hypothetical protein
+1154	um11398	um02269		related to UBP1 - ubiquitin-specific protease
+1155	um11400	um02278		probable Thiamin biosynthetic enzyme
+1156	um11402			conserved hypothetical protein
+1157	um11403	um02287		conserved hypothetical protein
+1158	um11406	um02509		conserved hypothetical protein
+1159	um11407	um02511		conserved hypothetical protein
+1160	um11416	um02536		conserved hypothetical Ustilago-specific protein
+1161	um11418			related to VMA21 - ATPase assembly integral membrane protein
+1162	um11433	um00504		related to Inhibitor-sensitive equilibrative nucleoside transporter 1
+1163	um11434	um00509		hypothetical protein
+1164	um11447.2	um11447		conserved hypothetical protein
+1165	um11454	um00648		conserved hypothetical protein
+1166	um11456	um00653		related to GPI - transamidase subunit
+1167	um11459.2	um11459		conserved hypothetical protein
+1168	um11467	um02098		conserved hypothetical protein
+1169	um11481	um02842		related to aquaporin
+1170	um11484	umd97-310		hypothetical protein
+1171	um11485	um02858		related to SNARE protein of Golgi compartment
+1172	um11488	um02871	erv14	probable ERV14 - ER-derived vesicles
+1173	um11495	um02893		related to nadh-ubiquinone oxidoreductase 21.3 kDa subunit
+1174	um11500	um02906		related to COT1 - Vacuolar zinc (and possibly other metals) transporter
+1175	um11506	um03606		putative protein
+1176	um11514	um03895		probable High-affinity glucose transporter
+1177	um11516			conserved hypothetical protein
+1178	um11523			conserved hypothetical protein
+1179	um11541			conserved hypothetical protein
+1180	um11546	um04648		conserved hypothetical protein
+1181	um11555	umd183-210		hypothetical protein
+1182	um11558			putative protein (C-terminal fragment)
+1183	um11571	um05220		related to CRD1 - cardiolipin synthase
+1184	um11581	umd212-10		conserved hypothetical protein (N-terminal fragment)
+1185	um11585	um05784		related to capsular associated protein
+1186	um11588	um05980		related to copper transport protein
+1187	um11594	um06005		conserved hypothetical protein
+1188	um11604	um00382		related to Ferric reductase transmembrane component 1 precursor
+1189	um11614			related to TOM5 - mitochondrial outer membrane protein
+1190	um11624.2	um11624		related to SSS1 - ER protein-translocase complex subunit
+1191	um11627	um00804		conserved hypothetical protein
+1192	um11635		ubc6	probable UBC6 - E2 ubiquitin-conjugating enzyme
+1193	um11643	um01140		putative protein
+1194	um11645	um01147		related to COX13 - cytochrome-c oxidase chain VIa
+1195	um11649	um01151		related to D-amino acid oxidase
+1196	um11651	um01158		related to Betaine lipid synthase
+1197	um11655	um01451		conserved hypothetical protein
+1198	um11669	um01486		related to syntaxin family member TLG1
+1199	um11682	um01570		related to STE14 - farnesyl cysteine carboxyl-methyltransferase
+1200	um11683	um01571		conserved hypothetical protein
+1201	um11690	um01598		conserved hypothetical protein
+1202	um11694	um01602		conserved hypothetical protein
+1203	um11696	um01609		related to SCS2 - required for inositol metabolism
+1204	um11697	um01611		conserved hypothetical protein
+1205	um11718	um02706		conserved hypothetical protein
+1206	um11723	um02734		related to ER glucosidase I
+1207	um11729	um02738		putative protein
+1208	um11731	um03545		related to nadh-ubiquinone oxidoreductase 9.5 kDa subunit
+1209	um11732	umd118-250		hypothetical protein (N-terminal fragment)
+1210	um11744	um03999		related to SDH3 - cytochrome b560 subunit of respiratory complex II
+1211	um11751	um04326		conserved hypothetical protein
+1212	um11754	umd162-10		putative protein (C-terminal fragment)
+1213	um11757	um04536		conserved hypothetical protein
+1214	um11768	um04937		hypothetical protein
+1215	um11771			conserved hypothetical protein
+1216	um11773	um05067		conserved hypothetical protein
+1217	um11774	um05071		conserved hypothetical protein
+1218	um11777	um05077		conserved hypothetical protein
+1219	um11786	um05235		related to YIP1 - Golgi integral membrane protein
+1220	um11795	um05561		related to glutathione s-transferase 3
+1221	um11802		ppa1	probable PPA1 - H+-ATPase 23 KD subunit, vacuolar
+1222	um11812	um06463		related to Cytochrome P450
+1223	um11819	um01477		related to SUR2 - sphingosine hydroxylase
+1224	um11829	um00662		conserved hypothetical protein
+1225	um11831			related to NADH:ubiquinone oxidoreductase 14 kda
+1226	um11840	umd29-20		related to Surfeit locus protein 1
+1227	um11841	um00881		related to YEA4 - uridine diphosphate-N-acetylglucosamine transporter
+1228	um11853	um01029		hypothetical protein
+1229	um11864	um01256		related to MDM31 - Mitochondrial inner membrane protein required for mitochondrial morphology and inheritance
+1230	um11884.2	um11884		related to Mitochondrial DnaJ chaperone
+1231	um11915			putative protein
+1232	um11925	um02695		related to VPS55 - protein involved in late endosome to vacuole trafficking
+1233	um11927			related to ROT1 - protein that may be involved in cell wall function
+1234	um11940			putative protein
+1235	um11954	um03258		related to neutral amino acid permease
+1236	um11962.2	um11962		probable ERG24 - C-14 sterol reductase
+1237	um11963	um03646		related to MMM1 - required for mitochondrial shape and structure
+1238	um11978	um04483		conserved hypothetical protein
+1239	um11984	um04502		conserved hypothetical protein
+1240	um11987	um04513		conserved hypothetical protein
+1241	um11988			putative protein
+1242	um11991	um04521		conserved hypothetical protein
+1243	um11998	um04759	pho91	probable PHO91 - similarity to Pho87p and Pho90p
+1244	um12015	um05622		conserved hypothetical Ustilago-specific protein
+1245	um12018	um05630		putative protein (C-terminal fragment)
+1246	um12023	um05759		conserved hypothetical protein
+1247	um12032	um05975		related to ATP-dependent DNA helicase RecQ
+1248	um12035	um06028		putative protein
+1249	um12036	um06030		conserved hypothetical protein
+1250	um12038		got1	probable GOT1 - Membrane protein required for ER to Golgi transport
+1251	um12061	um04386		putative protein
+1252	um12062	um04387	erd2	probable ERD2 - ER lumen protein-retaining receptor
+1253	um12080	um00015		related to PNS1 - Protein of unknown function
+1254	um12083	um05336		related to COX9 - Cytochrome-c oxidase chain VIIA
+1255	um12090	um00158		conserved hypothetical protein
+1256	um12094	um02145		conserved hypothetical protein
+1257	um12095			conserved hypothetical protein
+1258	um12096	um02171		conserved hypothetical protein
+1259	um12101			conserved hypothetical protein
+1260	um12108	um00600		probable syntaxin, vesicular transport protein
+1261	um12110	um00726	cox11	probable COX11 - cytochrome-c oxidase assembly protein
+1262	um12114	um00860		conserved hypothetical protein
+1263	um12118	um00938		putative protein
+1264	um12119			putative protein
+1265	um12123	um00973		related to Nuclease Le3
+1266	um12133			conserved hypothetical protein
+1267	um12136	um01413		conserved hypothetical protein
+1268	um12147			conserved hypothetical protein
+1269	um12148	um00257		conserved hypothetical protein
+1270	um12166			related to SPC1 - signal peptidase 10.8 kDa subunit
+1271	um12169	um01840		related to Sodium/nucleoside cotransporter 2
+1272	um12172	um01884		conserved hypothetical protein
+1273	um12173	um01887		putative protein
+1274	um12181	um02084		conserved hypothetical protein
+1275	um12184	um02261		conserved hypothetical protein
+1276	um12193.2	um12193		related to multidrug resistant protein
+1277	um12198			conserved hypothetical protein
+1278	um12200	um02953		conserved hypothetical protein
+1279	um12206	um03043		conserved hypothetical protein
+1280	um12210	um03151		related to HUT1 - involved in UDP-galactose transport to the Golgi lumen
+1281	um12211			putative protein
+1282	um12215	um03224		hypothetical protein
+1283	um12219	um03255		conserved hypothetical protein
+1284	um12231			related to PKR1 - V-ATPase Assembly Factor
+1285	um12232	um03502		related to mitochondrial seryl-tRNA synthetases
+1286	um12233	um03516		conserved hypothetical protein
+1287	um12238	um03634		conserved hypothetical Ustilago-specific protein
+1288	um12242.2	um12242		conserved hypothetical protein
+1289	um12249			putative protein
+1290	um12251	um04058		conserved hypothetical protein
+1291	um12263			hypothetical protein
+1292	um12264			putative protein
+1293	um12265	um04403		conserved hypothetical protein
+1294	um12267	um04445		related to IST2 - Plasma membrane protein that may be involved in osmotolerance
+1295	um12292	um04949		hypothetical protein
+1296	um12294	um05003		conserved hypothetical protein
+1297	um12298	um05056		conserved hypothetical protein
+1298	um12313			conserved hypothetical protein
+1299	um12321	um06006		conserved hypothetical protein
+1300	um12340	um06469		related to C-4 methylsterol oxidase
+1301	um12341	um06486		related to Cytochrome P450
+1302	um15001	um02997		related to CHO2 - phosphatidylethanolamine N-methyltransferase
+1303	um15001	um10345		related to CHO2 - phosphatidylethanolamine N-methyltransferase
+1304	um15002.2	um15002		probable 3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1305	um15020	um11622		conserved hypothetical protein
+1306	um15020	um12054		conserved hypothetical protein
+1307	um15021	um10717		conserved hypothetical protein
+1308	um15021	um12020		conserved hypothetical protein
+1309	um15022	um10932		related to pre-mrna splicing factor srp55
+1310	um15022	um10933		related to pre-mrna splicing factor srp55
+1311	um15024	um00747		putative protein
+1312	um15024	um11834		putative protein
+1313	um15029	um12040		related to SPC3 - signal peptidase subunit
+1314	um15029	um12069		related to SPC3 - signal peptidase subunit
+1315	um15030	um11626		conserved hypothetical protein
+1316	um15030	um11838		conserved hypothetical protein
+1317	um15032	um10948.2		related to ABC transporter
+1318	um15032	um10952		related to ABC transporter
+1319	um15034	um10592		probable chaperone bip
+1320	um15034	um11845		probable chaperone bip
+1321	um15043.2	um15043		probable ENA2 - Plasma membrane P-type ATPase
+1322	um15048	um00014.2		related to 4-coumarate-CoA ligase 1
+1323	um15048	um12343		related to 4-coumarate-CoA ligase 1
+1324	um15051	um11836		conserved hypothetical protein
+1325	um15051	um12348		conserved hypothetical protein
+1326	um15053	um10610		conserved hypothetical Ustilago-specific protein
+1327	um15053	um11844		conserved hypothetical Ustilago-specific protein
+1328	um15056	um01020.2		related to CCC2 - copper resistance-associated P-type ATPase
+1329	um15056	um10798		related to CCC2 - copper resistance-associated P-type ATPase
+1330	um15063	um11971		conserved hypothetical protein
+1331	um15063	um12245		conserved hypothetical protein
+1332	um15072	um11678		related to SUR1 - required for mannosylation of sphingolipids
+1333	um15072	um11877		related to SUR1 - required for mannosylation of sphingolipids
+1334	um15073	um11887		conserved hypothetical protein
+1335	um15074	um10866		related to ABC transporter
+1336	um15081	um03651		conserved hypothetical protein
+1337	um15081	um10472		conserved hypothetical protein
+1338	um15084	um10744		conserved hypothetical protein
+1339	um15084	um10930		conserved hypothetical protein
